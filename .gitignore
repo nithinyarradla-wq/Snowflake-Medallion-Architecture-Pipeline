@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Snowflake
+*.snowsql
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Credentials
+*credentials*
+*secrets*
