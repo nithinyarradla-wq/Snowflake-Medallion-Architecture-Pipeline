@@ -1,0 +1,16 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost,weight_kg,supplier_id,is_active,created_date,updated_date
+PROD-001,Wireless Bluetooth Headphones,Electronics,Audio,TechSound,299.99,150.00,0.35,SUP-001,TRUE,2024-01-01,2025-03-01
+PROD-002,Smart Fitness Watch,Electronics,Wearables,FitTech,149.99,75.00,0.08,SUP-002,TRUE,2024-02-15,2025-02-20
+PROD-003,USB-C Charging Cable 6ft,Electronics,Accessories,PowerLink,49.99,12.00,0.05,SUP-003,TRUE,2024-03-01,2025-01-15
+PROD-004,4K Ultra HD Monitor 27 inch,Electronics,Displays,VisionPro,599.99,320.00,5.50,SUP-001,TRUE,2024-01-20,2025-03-10
+PROD-005,Ergonomic Mouse Pad,Office,Accessories,ComfortZone,29.99,8.00,0.25,SUP-004,TRUE,2024-04-10,2025-02-28
+PROD-006,Professional Laptop 15 inch,Electronics,Computers,TechPro,1299.99,850.00,2.10,SUP-005,TRUE,2024-02-01,2025-03-15
+PROD-007,Mechanical Keyboard RGB,Electronics,Input Devices,KeyMaster,179.99,90.00,1.20,SUP-006,TRUE,2024-05-05,2025-01-20
+PROD-008,Portable Power Bank 20000mAh,Electronics,Power,PowerLink,79.99,35.00,0.45,SUP-003,TRUE,2024-06-15,2025-02-10
+PROD-009,Wireless Phone Charger,Electronics,Power,ChargeTech,39.99,18.00,0.15,SUP-007,TRUE,2024-07-01,2025-03-05
+PROD-010,Noise Cancelling Earbuds,Electronics,Audio,TechSound,199.99,100.00,0.02,SUP-001,TRUE,2024-08-20,2025-02-25
+PROD-011,Standing Desk Converter,Office,Furniture,ErgoWorks,349.99,180.00,12.00,SUP-008,TRUE,2024-03-15,2025-01-30
+PROD-012,Webcam HD 1080p,Electronics,Video,VisionPro,89.99,45.00,0.18,SUP-001,TRUE,2024-09-01,2025-03-08
+PROD-013,External SSD 1TB,Electronics,Storage,DataSafe,129.99,70.00,0.10,SUP-009,TRUE,2024-10-10,2025-02-15
+PROD-014,Office Chair Ergonomic,Office,Furniture,ComfortZone,449.99,220.00,18.50,SUP-008,TRUE,2024-04-25,2025-03-12
+PROD-015,Desk Lamp LED Adjustable,Office,Lighting,BrightLight,59.99,25.00,1.80,SUP-010,FALSE,2024-11-05,2025-01-10

@@ -1,0 +1,186 @@
+[
+  {
+    "order_id": "ORD-2025-001",
+    "customer_id": "CUST-001",
+    "order_date": "2025-03-15",
+    "order_timestamp": "2025-03-15T10:30:00Z",
+    "order_status": "COMPLETED",
+    "priority": "HIGH",
+    "ship_date": "2025-03-17",
+    "ship_mode": "Express",
+    "shipping": {
+      "address": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "product_id": "PROD-001",
+        "quantity": 2,
+        "unit_price": 299.99,
+        "discount_percent": 10
+      },
+      {
+        "product_id": "PROD-003",
+        "quantity": 1,
+        "unit_price": 49.99,
+        "discount_percent": 0
+      }
+    ],
+    "totals": {
+      "subtotal": 649.97,
+      "discount": 60.00,
+      "tax": 47.20,
+      "shipping": 15.00,
+      "total": 652.17
+    }
+  },
+  {
+    "order_id": "ORD-2025-002",
+    "customer_id": "CUST-002",
+    "order_date": "2025-03-15",
+    "order_timestamp": "2025-03-15T14:45:00Z",
+    "order_status": "PROCESSING",
+    "priority": "MEDIUM",
+    "ship_date": null,
+    "ship_mode": "Standard",
+    "shipping": {
+      "address": "456 Oak Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "product_id": "PROD-002",
+        "quantity": 3,
+        "unit_price": 149.99,
+        "discount_percent": 5
+      }
+    ],
+    "totals": {
+      "subtotal": 449.97,
+      "discount": 22.50,
+      "tax": 38.37,
+      "shipping": 9.99,
+      "total": 475.83
+    }
+  },
+  {
+    "order_id": "ORD-2025-003",
+    "customer_id": "CUST-003",
+    "order_date": "2025-03-16",
+    "order_timestamp": "2025-03-16T09:15:00Z",
+    "order_status": "COMPLETED",
+    "priority": "LOW",
+    "ship_date": "2025-03-20",
+    "ship_mode": "Standard",
+    "shipping": {
+      "address": "789 Pine Road",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "product_id": "PROD-004",
+        "quantity": 1,
+        "unit_price": 599.99,
+        "discount_percent": 15
+      },
+      {
+        "product_id": "PROD-005",
+        "quantity": 2,
+        "unit_price": 29.99,
+        "discount_percent": 0
+      },
+      {
+        "product_id": "PROD-001",
+        "quantity": 1,
+        "unit_price": 299.99,
+        "discount_percent": 10
+      }
+    ],
+    "totals": {
+      "subtotal": 959.96,
+      "discount": 119.99,
+      "tax": 67.20,
+      "shipping": 0,
+      "total": 907.17
+    }
+  },
+  {
+    "order_id": "ORD-2025-004",
+    "customer_id": "CUST-001",
+    "order_date": "2025-03-17",
+    "order_timestamp": "2025-03-17T16:30:00Z",
+    "order_status": "SHIPPED",
+    "priority": "HIGH",
+    "ship_date": "2025-03-18",
+    "ship_mode": "Express",
+    "shipping": {
+      "address": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "product_id": "PROD-006",
+        "quantity": 1,
+        "unit_price": 1299.99,
+        "discount_percent": 0
+      }
+    ],
+    "totals": {
+      "subtotal": 1299.99,
+      "discount": 0,
+      "tax": 107.25,
+      "shipping": 0,
+      "total": 1407.24
+    }
+  },
+  {
+    "order_id": "ORD-2025-005",
+    "customer_id": "CUST-004",
+    "order_date": "2025-03-18",
+    "order_timestamp": "2025-03-18T11:00:00Z",
+    "order_status": "PENDING",
+    "priority": "MEDIUM",
+    "ship_date": null,
+    "ship_mode": "Standard",
+    "shipping": {
+      "address": "321 Elm Street",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701",
+      "country": "United States"
+    },
+    "items": [
+      {
+        "product_id": "PROD-002",
+        "quantity": 1,
+        "unit_price": 149.99,
+        "discount_percent": 0
+      },
+      {
+        "product_id": "PROD-003",
+        "quantity": 3,
+        "unit_price": 49.99,
+        "discount_percent": 10
+      }
+    ],
+    "totals": {
+      "subtotal": 299.96,
+      "discount": 15.00,
+      "tax": 22.80,
+      "shipping": 9.99,
+      "total": 317.75
+    }
+  }
+]
